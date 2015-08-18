@@ -1,0 +1,21 @@
+From pooster at gmail.com  Tue Jun 22 22:26:50 2004
+From: pooster at gmail.com (Scruffy Poo)
+Date: Tue, 22 Jun 2004 15:26:50 -0500
+Subject: [Awflwm-discuss] awflwm features
+Message-ID: <a8d8718f0406221326311c73e6@mail.gmail.com>
+
+Hey there, anybody who might actually read this eventually.  I've been
+thinking lately
+about the features that I've proposed for awflwm.  There are a few
+issues with integrating
+guile for anything more than using it as a simple configuration
+scheme.  For this reason,
+I'm thinking about nixing guile support, since it's derned near
+infinitely easier to just parse
+a text file.
+
+Anything that anybody would like to see in this thing?
+
+Scruff
+
+
